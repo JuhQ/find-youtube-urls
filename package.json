@@ -1,6 +1,6 @@
 {
   "name": "find-youtube-urls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find Youtube urls from given string",
   "main": "index.js",
   "repository": {

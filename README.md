@@ -2,6 +2,9 @@
 
 ## To use
 
+`npm install find-youtube-urls --save`
+
+
 ```
 var findYoutubeUrls = require("./index.js");
 
