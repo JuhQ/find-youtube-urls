@@ -1,4 +1,4 @@
-# Get Youtube urls from string
+# Get Youtube urls from string [![Build Status](https://travis-ci.org/JuhQ/find-youtube-urls.svg)](https://travis-ci.org/JuhQ/find-youtube-urls)
 
 ## To use
 
